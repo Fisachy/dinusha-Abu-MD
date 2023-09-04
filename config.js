@@ -38,9 +38,9 @@ module.exports = {
 
   ANTIFAKE : process.env.ANTIFAKE || '',
 
-  FORWARD: process.env.FORWARD || '𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg;audio;audio/mp4;https://github.com/Afx-Abu/Abu-MD',
+  FORWARD: process.env.FORWARD || 'DINUSHA 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by dinusha;https://telegra.ph/file/afe125bc8ca9ccf66277c.jpg;audio;audio/mp4;https://github.com/Afx-Abu/Abu-MD',
   
-  BOT_INFO: process.env.BOT_INFO || '𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu MD;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg',
+  BOT_INFO: process.env.BOT_INFO || 'DINUSHA 𝐌𝐃 𝐁𝐎𝐓;~dinusha;Copyright by dinusha MD;https://telegra.ph/file/afe125bc8ca9ccf66277c.jpg',
 
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
 
@@ -58,6 +58,6 @@ module.exports = {
 
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || " ",
 
-  MODE: process.env.MODE || "public",
+  MODE: process.env.MODE || "private",
 
 };
