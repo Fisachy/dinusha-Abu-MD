@@ -58,6 +58,6 @@ module.exports = {
 
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || " ",
 
-  MODE: process.env.MODE || "private",
+  MODE: process.env.MODE || "public",
 
 };
