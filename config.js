@@ -26,7 +26,7 @@ module.exports = {
 
   WARN_LIMIT: process.env.WARN_LIMIT || "3",
 
-  HANDLERS:process.env.HANDLER === "false" || process.env.HANDLERS || '^,',
+  HANDLERS:process.env.HANDLER === "false" || process.env.HANDLERS || ',',
 
   IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
 
@@ -46,7 +46,7 @@ module.exports = {
 
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
 
-  STICKER_DATA: process.env.STICKER_DATA || "Abu",
+  STICKER_DATA: process.env.STICKER_DATA || "Dinu",
 
   ACR_A: "ff489a0160188cf5f0750eaf486eee74",
 
